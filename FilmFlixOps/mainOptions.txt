@@ -1,0 +1,8 @@
+The FilmFlix Menu options.
+Enter:
+1. Print all Movies.
+2. Add a Movie.
+3. Amend a Movie.
+4. Delete a Movie.
+5. Report.
+6. Exit the FilmFlix App.
